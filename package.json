@@ -13,6 +13,8 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
+  "less": "src/semantic.less",
+  "main": "dist/semantic.js",
   "scripts": {},
   "dependencies": {
     "better-console": "*",
